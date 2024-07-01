@@ -32,5 +32,3 @@ Ensure your system's microphone is correctly configured and accessible by the ap
 The application uses non-blocking recording for smooth interaction and responsiveness.
 Author
 Name: Vikash Kushwaha
-Contact: [Your Contact Information]
-GitHub: [Your GitHub Profile]
