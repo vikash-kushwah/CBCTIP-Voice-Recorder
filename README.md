@@ -24,6 +24,6 @@ pip install sounddevice wavio
   <img src="Screenshot 3.png" width="250" />  
   <img src="Screenshot 4.png" width="250" />
   <img src="Screenshot 5.png" width="250" />
-  <img src="Screenshot 5.png" width="250" />
+  <img src="Screenshot 6.png" width="250" />
 </p>
 
